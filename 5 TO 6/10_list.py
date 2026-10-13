@@ -9,9 +9,6 @@ unexpected = []
 
 allowed_found = []
 
-print("="*30)
-print("\tPORT POLICY AUDITOR")
-print("="*30)
 
 for port in open_ports:
     if port in ALLOWED_PORT:
