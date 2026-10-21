@@ -1,0 +1,7 @@
+Cybersecurity is the practice of protecting systems, networks, programs, devices, and data from digital attacks, damage, or unauthorized access. It relies on the core principles of confidentiality, integrity, and availability (the CIA triad) to keep digital assets and infrastructure safe.
+
+Core Pillars (The CIA Triad)
+
+• Confidentiality: Ensures sensitive data is only seen by authorized users through tools like encryption and multi-factor authentication.
+• Integrity: Protects data from being changed or tampered with illicitly while stored or moved.
+• Availability: Guarantees that systems, networks, and services work and stay accessible when users need them.

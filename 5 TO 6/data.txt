@@ -1,0 +1,13 @@
+
+Top Threats
+Malware & Ransomware: Software that locks or harms files to demand payment.
+Phishing: Fake messages meant to trick people into giving away passwords or money..
+AI-Powered Attacks: Automated tools that make cyberattacks faster and harder to spot.
+
+Common Types of Cybersecurity
+Network Security: Guards internal networks from intruders and malware.
+Cloud Security: Secures data and services kept on cloud platforms.
+Protects individual devices like phones, laptops, and tablets.
+Application Security: Fixes code flaws and protects software from threats..
+
+Cyber Security duration is : 12 months.
