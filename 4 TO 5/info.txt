@@ -1,0 +1,7 @@
+
+Field:Core Libraries & Frameworks
+
+AI & Machine Learning : TensorFlow, PyTorch, scikit-learn
+Data Science & Analytics : pandas, NumPy, Matplotlib, Seaborn
+Web Development : Django, Flask, FastAPI
+Automation & DevOps : System scripting, deployment tools
