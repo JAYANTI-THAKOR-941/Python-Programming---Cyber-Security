@@ -4,7 +4,7 @@
 
 # with open("info.txt","w",encoding="utf-8") as f:
 #     f.write("\nField:Core Libraries & Frameworks")
-#     f.write("\n\nAI & Machine Learning : TensorFlow, PyTorch, scikit-learn")
+#     f.write(\\nA"I & Machine Learning : nTensorFlow, PyTorch, scikit-learn")
 #     f.write("\nData Science & Analytics : pandas, NumPy, Matplotlib, Seaborn")
 
 # with open("info.txt","a",encoding="utf-8") as f:
