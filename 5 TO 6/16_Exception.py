@@ -17,7 +17,7 @@
 
 
 try:
-    number1 = int(input("Enter any number1:"))
+    number1 = int(input("Enter any number1:")) 
     number2 = int(input("Enter any number2:"))
     x = number1 / number2
     print("Division:",x)

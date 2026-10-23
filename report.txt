@@ -1,0 +1,10 @@
+==============================
+  COLLECT DATA
+==============================
+Name:   Jayanti Thakor
+Course: Cyber Security
+
+Findings:
+  1. 192.168.1.5
+
+Total findings: 1
