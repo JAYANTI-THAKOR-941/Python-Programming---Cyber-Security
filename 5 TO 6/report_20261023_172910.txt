@@ -1,0 +1,14 @@
+========================================
+  AUTOMATIC SYSTEM REPORT
+========================================
+Generated:  2026-10-23 17:29:10
+Computer:   DESKTOP-BNQJHJO
+User:       Admin
+OS:         Windows 10
+CPU cores:  4
+IP address: 192.168.1.26
+Disk free:  34.0 GB of 116.6 GB
+
+FINDINGS
+----------------------------------------
+1. Risky service open: RDP (port 3389)
