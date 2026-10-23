@@ -1,4 +1,4 @@
-# Day 17: Report Generator
+ # Day 17: Report Generator
 
 import getpass
 import os
