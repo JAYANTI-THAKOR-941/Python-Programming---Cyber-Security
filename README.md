@@ -17,3 +17,14 @@ cd Python-Programming---Cyber-Security
 ```
 
 Install Python 3, enter the appropriate batch directory, review imports and run individual exercises. Perform networking experiments only in authorized, isolated labs.
+
+## Additional learning resources
+
+New original supplemental content for practical training and self-study. Existing materials are preserved.
+
+- [README.md](learning/README.md)
+- [sample_events.csv](learning/sample_events.csv)
+- [log_review.py](learning/log_review.py)
+- [integrity.py](learning/integrity.py)
+- [test_learning.py](learning/test_learning.py)
+- [exercises.md](learning/exercises.md)
