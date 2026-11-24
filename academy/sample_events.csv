@@ -1,0 +1,6 @@
+timestamp,account,outcome
+2026-01-01T09:00:00,student01,failed
+2026-01-01T09:01:00,student01,failed
+2026-01-01T09:02:00,student01,failed
+2026-01-01T09:03:00,student01,success
+2026-01-01T09:04:00,student02,success

@@ -28,3 +28,13 @@ New original supplemental content for practical training and self-study. Existin
 - [integrity.py](learning/integrity.py)
 - [test_learning.py](learning/test_learning.py)
 - [exercises.md](learning/exercises.md)
+
+## Expanded learning and developer resources
+
+New supplementary content (original material preserved):
+
+- [README.md](academy/README.md)
+- [sample_events.csv](academy/sample_events.csv)
+- [log_review.py](academy/log_review.py)
+- [integrity.py](academy/integrity.py)
+- [test_practicals.py](academy/test_practicals.py)
